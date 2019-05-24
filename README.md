@@ -16,11 +16,9 @@ det är från en gammal hållare med kopplingsdeck som jag tog sönder
 ## Graf
 + "final.PNG" är en bild på min tillståndsgraf för roboten
 
-## Arduino
+## Kod
 + "Labyrint.ino" är min Arduino labyrint kod för roboten
-
-## MQTT
-+ Finns ingen kod för MQTT eftersom att den basiacally är copy paste från Jockes kod, inget speciellt finns med
++ Finns ingen kod för MQTT eftersom att den basiacally är copy paste från Jockes kod/MQTT Sway:en
 
 ## Filmen
 + "Lägg till snart"
