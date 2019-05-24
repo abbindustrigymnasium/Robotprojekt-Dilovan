@@ -13,7 +13,7 @@ det är från en gammal hållare med kopplingsdeck som jag tog sönder
 + "Motor hållare.SLDPRT" är hållaren för min motor, det sitter två "Lego beam.SLDPRT" limmade på den i bilen
 + "Servo hållare.SLDPRT" är hållaren för mitt servo, finns 8 piggar på den för att det passade med min första idé
 
-## Tillståndsgraf
+## Graf
 + "final.PNG" är en bild på min tillståndsgraf för roboten
 
 ## Arduino
