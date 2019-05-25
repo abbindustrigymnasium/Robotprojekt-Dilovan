@@ -14,7 +14,10 @@ det är från en gammal hållare med kopplingsdeck som jag tog sönder
 + "Servo hållare.SLDPRT" är hållaren för mitt servo, finns 8 piggar på den för att det passade med min första idé
 
 ## Mappen "Film"
-+ "Lägg till snart"
++ Filmens namn är "RobotFilm-Dilovan"
+
+I en del av videon pratade jag om servots placering vilket var onödigt- 
+men jag kom inte på ett sätt att ta bort den delen i efterhand
 
 ## Mappen "Kod"
 + "Labyrint.ino" är min Arduino labyrint kod för roboten
