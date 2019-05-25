@@ -1,5 +1,5 @@
 # Robotprojekt av Dilovan Yolbas 
-Här hittar du tre mappar med namnen "CAD", "Graf" och "Kod"
+Här hittar du tre mappar med namnen "CAD", "Tillståndsgraf" och "Kod"
 
 ## CAD
 Finns ingen fil med servoaxelkopplingen eftersom att jag inte hittade den på datorn
@@ -13,7 +13,7 @@ det är från en gammal hållare med kopplingsdeck som jag tog sönder
 + "Motor hållare.SLDPRT" är hållaren för min motor, det sitter två "Lego beam.SLDPRT" limmade på den i bilen
 + "Servo hållare.SLDPRT" är hållaren för mitt servo, finns 8 piggar på den för att det passade med min första idé
 
-## Graf
+## Tillståndsgraf
 + "final.PNG" är en bild på min tillståndsgraf för roboten
 
 ## Kod
