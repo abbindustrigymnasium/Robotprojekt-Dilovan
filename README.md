@@ -1,5 +1,5 @@
 # Robotprojekt av Dilovan Yolbas 
-Här hittar du tre mappar med namnen "CAD", "Tillståndsgraf" och "Kod"
+Här hittar du tre mappar med namnen "CAD", "Film", "Tillståndsgraf" och "Kod"
 
 ## CAD
 Finns ingen fil med servoaxelkopplingen eftersom att jag inte hittade den på datorn
@@ -13,12 +13,12 @@ det är från en gammal hållare med kopplingsdeck som jag tog sönder
 + "Motor hållare.SLDPRT" är hållaren för min motor, det sitter två "Lego beam.SLDPRT" limmade på den i bilen
 + "Servo hållare.SLDPRT" är hållaren för mitt servo, finns 8 piggar på den för att det passade med min första idé
 
+## Filmen
++ "Lägg till snart"
+
 ## Tillståndsgraf
 + "final.PNG" är en bild på min tillståndsgraf för roboten
 
 ## Kod
 + "Labyrint.ino" är min Arduino labyrint kod för roboten
 + Finns ingen kod för MQTT eftersom att den basiacally är copy paste från Jockes kod/MQTT Sway:en
-
-## Filmen
-+ "Lägg till snart"
